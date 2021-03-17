@@ -1,0 +1,12 @@
+{
+    "name": "harianis/wedding-backend",
+    "description": "backend ucapan",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hari Pranata",
+            "email": "hripranata@gmail.com"
+        }
+    ],
+    "require": {}
+}
